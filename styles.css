@@ -55,6 +55,10 @@
 margin-left: 100px;
 }
 
+.card5{
+    margin-bottom: 30px;
+}
+
 h1{
     text-align: center;
     font-family: 'Dancing Script', cursive;
@@ -71,7 +75,7 @@ h1{
 
 @media only screen and (min-width: 1024px) {
 .card5{
-    margin-left: 00px;
+    margin-left: 500px;
 }
 }
 
