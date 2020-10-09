@@ -1,0 +1,79 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 100vh;
+}
+
+.navbar-style{
+   box-shadow: 0 5px 10px #efefef; 
+}
+
+#navbarNav{
+    background-color:	#f39bc3;
+
+}
+
+.navbar-brand{
+    background-color:white;
+}
+
+.nav-item {
+    color: white;
+}
+
+.container-1{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.container-2{
+  margin: 30px;
+}
+.container-3{
+    margin-top: -15px;
+    margin: 30px;
+}
+
+.nav-link {
+    color: white !important;
+    font-family: 'Montserrat-Light', sans-serif !important;
+    }
+
+.container-5{
+    margin-left: 500px !important;
+}
+
+.container-6{
+    padding: 50px;
+}
+.container-7{
+margin-left: 100px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color:white;
+}
+
+.lead{
+    text-align: center;
+}
+
+.jumbotron-fluid{
+    background-color:	#f39bc3 ;
+}
+
+@media only screen and (min-width: 1024px) {
+.card5{
+    margin-left: 00px;
+}
+}
+
+
+
