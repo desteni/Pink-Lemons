@@ -55,6 +55,17 @@
 margin-left: 100px;
 }
 
+.container-8{
+margin-right: 20px;
+margin-top: 20px;
+}
+
+.container-9{
+margin-left: 20px;
+margin-right: -25px;
+margin-top: 20px;
+}
+
 .card5{
     margin-bottom: 30px;
 }
@@ -76,8 +87,35 @@ h1{
 @media only screen and (min-width: 1024px) {
 .card5{
     margin-left: 500px;
+
 }
+
+.kid{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 25px;
+    margin-top: 25px;
 }
+
+.container-12{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 25px;
+}
+.container-3{
+ margin-top: 25px;
+ margin-left: 350px;
+ margin-right:350px;
+
+}
+.container-1{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 25px;
+}
+
+}
+
 
 
 
